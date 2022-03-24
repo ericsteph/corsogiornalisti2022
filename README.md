@@ -1,2 +1,2 @@
-# statistica2020_intro
-https://ericsteph.github.io/statistica2020_intro
+# corsogiornalisti2022
+https://ericsteph.github.io/corsogiornalisti2022
